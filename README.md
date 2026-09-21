@@ -8,9 +8,8 @@ Students can upload `.txt` or `.pdf` notes, then ask questions about them, gener
 
 ## Screenshots
 
-> _Add a screenshot of the upload flow and one of a generated response here._
->
-> `![Study Assistant](./screenshots/study-assistant.png)`
+![Study Assistant](./screenshots/ai-study-img1.png)
+![Study Assistant](./screenshots/ai-study-img2.png)
 
 ## Features
 
