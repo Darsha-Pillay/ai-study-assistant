@@ -106,7 +106,7 @@ The app is available at `http://localhost:5173`.
 ## Future Improvements
 
 - Persist uploaded notes and generated content (would require adding a database, currently everything is in-memory per request)
-- Support for longer documents via chunking (this project sends the full notes text in every prompt, which works for short documents but would hit context length or cost limits on longer ones — this exact limitation is what Project 5, a RAG application, is designed to solve properly)
+- Support for longer documents via chunking (this project sends the full notes text in every prompt, which works for short documents but would hit context length or cost limits on longer ones
 - User accounts, so students can save and revisit past uploads and generated study material
 - Streaming responses (showing the AI's answer as it's generated, rather than waiting for the full response)
 - Automated tests
